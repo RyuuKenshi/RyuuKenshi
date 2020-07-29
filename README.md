@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/arjun-sinha-366a79192/">
   <img align="left" alt="Tushar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href=https://www.instagram.com/ryuu_kenshi/">
+<a href="https://www.instagram.com/ryuu_kenshi/">
   <img align="left" alt="Tushar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://medium.com/@arjunsinha2122000">
