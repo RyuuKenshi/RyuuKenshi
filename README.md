@@ -1,4 +1,6 @@
-### Hi there 👋 Welcome to my Dreamscape!
+### 👋 Hi there 
+### 👨‍💻 I'm [Arjun Sinha!](http://ryuukenshi.github.io/)
+### 🌟 Welcome to my Dreamscape!
 
 <a href="https://twitter.com/RyuuKenshi">
   <img align="left" alt="Arjun's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -35,9 +37,20 @@
 - 💬 Ask me about Android, Flutter, Python, Firebase and TensorFlow!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arjun-sinha-366a79192/), [Mail](mailto:arjunsinha2122000@gmail.com)
 - 😄 Pronouns: he/his/him
+- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ryuukenshi.ryuukenshi)  
 
 <br />
 <br />
 <br />
-
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuuKenshi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<a href="https://github.com/ryuukenshi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuukenshi&theme=dark&hide_langs_below=1" height="220px"/>
+</a>
+<a href="https://github.com/ryuukenshi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuukenshi&show_icons=true&theme=dark&line_height=27" alt="Arjun's github stats" height="220px" />
+</a>
+<a href="https://github.com/RyuuKenshi/flutter_collapsible_sidebar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuukenshi&repo=flutter_collapsible_sidebar&theme=dark" />
+</a>
+<a href="https://github.com/RyuuKenshi/College-Activity-Tracker">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuukenshi&repo=College-Activity-Tracker&theme=dark" />
+</a>
