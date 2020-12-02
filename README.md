@@ -43,7 +43,7 @@
 <br />
 <br />
 <a href="https://github.com/ryuukenshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuKenshi&theme=dark" height="220px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuukenshi&theme=dark" height="220px"/>
 </a>
 <a href="https://github.com/ryuukenshi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuukenshi&show_icons=true&theme=dark&line_height=27" alt="Arjun's github stats" height="220px" />
