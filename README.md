@@ -52,5 +52,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuukenshi&repo=flutter_collapsible_sidebar&theme=dark" />
 </a>
 <a href="https://github.com/RyuuKenshi/College-Activity-Tracker">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuukenshi&repo=feel-it&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuukenshi&repo=her-care&theme=dark" />
 </a>
