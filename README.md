@@ -51,6 +51,6 @@
 <a href="https://github.com/RyuuKenshi/flutter_collapsible_sidebar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuukenshi&repo=flutter_collapsible_sidebar&theme=dark" />
 </a>
-<a href="https://github.com/RyuuKenshi/College-Activity-Tracker">
+<a href="https://github.com/RyuuKenshi/her-care">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuukenshi&repo=her-care&theme=dark" />
 </a>
