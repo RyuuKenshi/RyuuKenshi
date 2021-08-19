@@ -31,7 +31,7 @@
 <!---
 - 🔭 I’m currently an 
 -->
-- 🌱 I’m currently learning Backend Development & Machine Learning
+- 🌱 I’m currently learning Backend Development using Golang
 - 👯 I’m looking to collaborate on Flutter Projects.
 - 🤔 I’m looking for help with finding relevant open source proects to contribute to.
 - 💬 Ask me about Android, Flutter, Python, Firebase and TensorFlow!
